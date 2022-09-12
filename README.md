@@ -1,6 +1,6 @@
 ### Olá, eu sou Aldevan 👋
  ##
-- 👨‍🎓 Atualmente sou estudante Full Stack.
+- 👨‍🎓 Tecnologia de Sistemas para Internet.
 - 👨‍💻 Em busca de novas oportunidades!
 
 <div align="center">
