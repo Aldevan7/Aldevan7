@@ -1,4 +1,4 @@
-### Olá, eu sou Aldevan 👋
+### Olá! Sou Aldevan 👋
  ##
 - 👨‍🎓 Tecnologia de Sistemas para Internet.
 - 👨‍💻 Em busca de novas oportunidades!
